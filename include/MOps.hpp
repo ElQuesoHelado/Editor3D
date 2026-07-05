@@ -90,7 +90,4 @@ struct MOps {
       points[i + 2] = p.z;
     }
   }
-
-  // TODO: Solo concatena puntos pixel
-  // static void concat() {}
 };

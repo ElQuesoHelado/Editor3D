@@ -17,7 +17,6 @@ add_executable(app
     src/App/projections.cpp
     src/App/ui.cpp
     src/Shader.cpp
-    src/Mesh.cpp
     glad/src/glad.c
     src/par_shapes.cpp
     src/stb_image.cpp
